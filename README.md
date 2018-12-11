@@ -1,1 +1,1 @@
-# Program-Konversi-Detik-ke-Hari-Jam-Menit-Algoritma-1
+# Program Konversi Detik ke Hari, Jam, Menit
